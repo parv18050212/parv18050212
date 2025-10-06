@@ -1,80 +1,74 @@
-<h1 align="center">👋 Hey there, I'm Parv Agarwal</h1>
-<h3 align="center">Open Source Contributor | Cloud & DevOps Enthusiast | Building with Agentic AI</h3>
+<h1 align="center">Hi 👋, I'm Parv Agarwal</h1>
+<h3 align="center">Building Scalable Solutions on Cloud | Automating Workflows with DevOps | Innovating with Agentic AI</h3>
 
 ---
 
-### 💡 About Me
-- 🎓 **Third-year B.Tech CSE (AI & IoT)** student at **GLA University, Mathura**
-- 🧠 Passionate about **Cloud Infrastructure**, **DevOps Automation**, and **AI Systems**
-- 🤝 Active **open-source contributor**, exploring projects in **Agentic AI**, **RAG pipelines**, and **DevOps tooling**
-- ☁️ Contributor to repositories involving **AWS deployments**, **CI/CD pipelines**, and **AI APIs**
-- 💬 I love collaborating on **AI + Cloud + Infra automation** problems
+### 🚀 About Me  
+- 🎓 **Third-year B.Tech CSE (AI & IoT)** student at **GLA University, Mathura**  
+- ☁️ Passionate about **Cloud Computing**, **DevOps Automation**, and **Agentic AI Systems**  
+- 🧠 Exploring **MLOps**, **Infrastructure as Code**, and **AI-driven backend automation**  
+- 💼 Currently interning at **Atypical Academy** as a **Full Stack Developer (AI + Cloud)**  
+- ⚙️ Building projects that merge **AI, Cloud, and Scalable DevOps pipelines**  
 
 ---
 
-### 🧩 Open Source Focus Areas
-- **DevOps & Infrastructure** → Docker, Kubernetes, CI/CD, GitHub Actions  
-- **Cloud Deployments** → AWS, GCP, EC2, Bedrock, CloudFormation  
-- **AI & Agentic Systems** → LangChain, RAG, Bedrock, Gemini, FastAPI  
-- **APIs & Backends** → Flask, FastAPI, REST, Microservices  
-- **Documentation & Community** → improving clarity, automation scripts, and technical guides  
+### 🧰 Tech Stack
+**Cloud & DevOps:** AWS | Docker | Kubernetes | Linux | GitHub Actions | CI/CD  
+**Backend:** Python | Flask | FastAPI | REST APIs  
+**Databases:** MongoDB | MySQL  
+**AI & Automation:** LangChain | RAG | Gemini API | Agentic AI | Amazon Bedrock | Pinecone  
+**Frontend & Tools:** HTML | CSS | JavaScript | Postman | Bash | VS Code  
 
 ---
 
-### 🔥 Open Source Contributions
-Here are some of my current and recent contributions:
+### 💼 Featured Projects  
+🔹 **[Voithós – AI-Powered Career Chatbot](#)**  
+Conversational AI system built using Flask & Gemini API, deployed on AWS EC2.  
+*Tech:* Python, Flask, AWS, HTML, JS  
 
-- 🧰 **[LangChain-Community](https://github.com/langchain-ai/langchain)**  
-  - Contributed minor patches to improve prompt handling & documentation.  
-  - Experimenting with **Agentic AI workflows** using LangGraph.
+🔹 **[Krishivaani – Smart Crop Advisory System (SIH 2025)](#)**  
+Voice-first multilingual advisory for farmers integrating RAG & AI pest detection.  
+*Tech:* FastAPI, TensorFlow Lite, Docker, Kubernetes, AWS  
 
-- ☁️ **[Docker Community Samples](https://github.com/docker-library/docs)**  
-  - Created Dockerfiles for Python Flask deployments with AWS integration.  
-  - Contributed CI/CD workflow optimization and documentation fixes.
+🔹 **[RAG-Based Research Assistant](#)**  
+RAG-powered AI for academic research Q&A using Bedrock + Pinecone.  
+*Tech:* Flask, Bedrock, Pinecone, AWS EC2  
 
-- 🤖 **[HuggingFace Transformers](https://github.com/huggingface/transformers)** *(Learning Contribution)*  
-  - Working on example notebooks for integrating Bedrock + HuggingFace models.
-
-- 🛠️ **[Open-Source DevOps Tools](https://github.com/opensource-contributions)** *(Personal sandbox)*  
-  - Maintaining small utilities for container deployment, workflow testing, and AWS EC2 automation.
+🔹 **[Atypical Academy Internship Work](#)**  
+Developing scalable AI APIs and RAG pipelines for startup-grade systems.  
 
 ---
 
-### 📈 Contribution Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parv18050212&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parv18050212&theme=tokyonight" height="150" />
+### 🏅 Achievements
+- 🥇 **Smart India Hackathon 2025 (Software – Team GPT Coders)** – Krishivaani project  
+- ⚡ **IIT Hackathon 2024 (AI x Web3 Track)** – National-level participation  
+- 🎤 **Organizer – Creator’s Camp 4.0**, E-Cell GLA University  
+- 💡 **Core Team – TEDx GLAU (Curation)**  
+
+---
+
+### 🌱 Currently Learning
+- ☁️ AWS Solutions Architect Associate  
+- 🤖 Building Agentic AI Systems using LangChain + Gemini  
+- 🧩 CI/CD with Docker, GitHub Actions, and Kubernetes  
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/parv-agarwal-a6a02b289/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://github.com/parv18050212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" /></a>
+<a href="mailto:parvagarwal73@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="email" height="30" width="30" /></a>
 </p>
 
 ---
 
-### 🧠 Tech Domains I Contribute To
-| Domain | Tools & Frameworks |
-|:--|:--|
-| **DevOps & Automation** | Docker, Kubernetes, GitHub Actions, CI/CD |
-| **Cloud** | AWS, GCP, EC2, CloudFormation |
-| **AI & Agentic Systems** | LangChain, Bedrock, Gemini API, FastAPI |
-| **Data & Databases** | MongoDB, PostgreSQL, MySQL |
-| **Open Source Docs & Infra** | Markdown, YAML, Bash, Linux |
+### 🖥️ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parv18050212&show_icons=true&theme=radical" alt="Parv's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parv18050212&theme=radical" height="160"/>
+</p>
 
 ---
 
-### 🌍 Open Source Philosophy
-> “I believe open source isn’t just code — it’s collaboration, learning, and the spirit of building something bigger than yourself.”  
-
----
-
-### 📫 Let’s Collaborate!
-- 💼 [LinkedIn](https://www.linkedin.com/in/parv-agarwal-a6a02b289/)  
-- 🧑‍💻 [GitHub](https://github.com/parv18050212)  
-- 📧 [Email Me](mailto:parvagarwal73@gmail.com)  
-
----
-
-### ⚡ Fun Fact
-I started my journey by deploying chatbots and ended up contributing to tools that **power those deployments.**  
-Currently diving deeper into **Agentic AI + DevOps Automation** through open source.
-
----
-
-⭐ **If you like my work, consider starring a repo — it helps open source grow!**
+⭐ **“Learning never stops when you're automating the future.”**
