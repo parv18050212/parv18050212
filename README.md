@@ -44,7 +44,6 @@ Frontend & Tools: HTML · CSS · JavaScript · Postman · Bash · VS Code
 - **Atypical Academy — Internship Work**  
   Building scalable AI APIs and RAG pipelines for production-ready services.
 
-(For each project, I can add live links, demo GIFs, or short READMEs — tell me which project to expand.)
 
 ---
 
